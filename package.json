@@ -1,0 +1,32 @@
+{
+  "name": "@prakashandrews/reactnativecommonlib",
+  "version": "1.0.0",
+  "description": "A shared UI library for React Native projects.",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prakashandrews/ReactNativecommonLib.git"
+  },
+  "keywords": [
+    "react-native",
+    "ui-library",
+    "shared-components"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-native": "^0.64.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.0",
+    "@types/react": "^17.0.0",
+    "@types/react-native": "^0.64.0",
+    "jest": "^26.0.0",
+    "typescript": "^4.9.5"
+  }
+}
